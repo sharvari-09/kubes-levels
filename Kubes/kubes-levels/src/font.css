@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'OldEnglish';
+  src: url('/fonts/OldeEnglish.ttf') format('truetype');
+}
+
+.title{
+  font-family: OldEnglish;
+}
